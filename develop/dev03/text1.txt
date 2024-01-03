@@ -1,0 +1,5 @@
+drwxr-xr-x 6 user user 4096 dec 6 14:29 Android
+drwx------ 3 user user 4096 jan 14 22:18 Desktop
+drwxr-xr-x 12 user user 4096 jan 14 21:49 Documents
+drwx------ a user user 12288 jan 15 14:59 Downloads
+drwxr-xr-x 7 user user 4096 jan 13 11:42 Lightworks
